@@ -12,7 +12,7 @@
 
 -Technologies Used
 
-  >HTLM
+  >HTML
   >JAVASCRIPT
   >CSS
  
